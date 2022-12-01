@@ -1,0 +1,26 @@
+25
+1001 Lapiz            G01  1.25 24
+1002 Sacapunta_Metal  G02  2.50 6
+1003 Borrador         G02  2.00 12
+1004 Boligrafo        G01  3.50 12
+1005 Carpetas         E01  5.00 24
+1006 Resma_Papel      E02 30.00 10
+1007 Cartulina        E03  4.00 12
+1008 Papel_Seda       E04  1.00 24
+1009 Papel_Lustrillo  E04  1.00 24
+1010 Cartulina_Gruesa E04  5.00 12
+1011 Pega             G03 10.00 12
+1012 Cinta_Plastica   G04 15.00 6
+1013 Cuaderno_Pequeño E05 15.00 12
+1014 Cuaderno_Grande  E06 25.00 12
+1015 Cuaderno_espiral E06 20.00 24
+1016 Block_Dibujo     E05 25.00 12
+1017 Paletas_Helado   G04  8.00 6
+1018 Plastilina       G04  2.00 48
+1019 Tempera          E01 22.00 6
+1020 Pinceles         G01  6.50 6
+2001 Cartillas        E06  5.00 12
+2002 Libro_Lectura    E06 35.00 12
+2003 Libro_Matematica E07 40.00 12
+2004 Libro_Musica     E07 12.00 12
+2005 Libro_Biologia   E08 25.00 12
